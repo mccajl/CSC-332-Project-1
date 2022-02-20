@@ -12,6 +12,12 @@ The image below is an example wiring of a single sensor node:
 
 ![wiring](https://github.com/mccajl/CSC-332-Project-1/blob/main/Wiring_picture.png?raw=true)
 
+
+This is an example of a single Arduino running two sensor nodes:
+
+![IMG_4921](https://user-images.githubusercontent.com/59152508/154866274-d9f0f924-48a8-4184-a27c-f7ba556a0c6a.jpg)
+
+
 # Wiring Details
 The YL-69 sensor is hooked up to a potentiometer to give it analog input capabilities. Connect the sensor to the potentiometer via power and ground. Connect the power and ground pins on the potentiometer to the buses on the breadboard, and the analog output pin to the A0 pin on the Arduino. The soil sensor should now be configured correctly and its readings can be called by the analog 0 pin.
 
