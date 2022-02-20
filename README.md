@@ -9,3 +9,5 @@ The image below is an example wiring of a single sensor node:
 
 ![alt text](https://github.com/mccajl/CSC-332-Project-1/blob/main/Full_sensor.png?raw=true)
 
+
+![alt text](https://github.com/mccajl/CSC-332-Project-1/blob/main/Wiring_picture.png?raw=true)
