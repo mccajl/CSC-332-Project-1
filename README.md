@@ -7,4 +7,5 @@ We include a file for running the sensor module on an Arduino Uno, plants_projec
 
 The image below is an example wiring of a single sensor node:
 
+![alt text](https://github.com/mccajl/CSC-332-Project-1/blob/main/Full_sensor.png?raw=true)
 
